@@ -1,1 +1,1 @@
-# Toggle-Scrolling-Direction-MacOS-
+# Toggle-Scrolling-Direction-MacOS
